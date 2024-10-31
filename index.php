@@ -1,0 +1,2 @@
+<?php
+// Tudo em paz?
